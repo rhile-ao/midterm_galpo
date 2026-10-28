@@ -2,16 +2,15 @@
              IR SENSOR OBJECT COUNTER
 ======================================================
 Description:
-  Counts objects detected by an IR sensor and displays
-  the count on two seven-segment displays and Serial Monitor.
-
+  Counts objects using an IR sensor. Two switches
+  control the counting mode, and the count is displayed
+  on two seven-segment displays.
+------------------------------------------------------*/
 Programmer:
-  De Asis, Felicity M.
-  Dela Torre, Shanna Dale R.
   Galpo, Rhile L.
 
 Date:
-  15 October 2026
+  28 October 2026
 ------------------------------------------------------*/
 #include "decoder.h"
 
