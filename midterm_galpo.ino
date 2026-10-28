@@ -5,7 +5,7 @@ Description:
   Counts objects using an IR sensor. Two switches
   control the counting mode, and the count is displayed
   on two seven-segment displays.
-------------------------------------------------------*/
+  
 Programmer:
   Galpo, Rhile L.
 
